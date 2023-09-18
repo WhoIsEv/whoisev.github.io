@@ -1,7 +1,7 @@
 (async () => {
   var reviewsElement = document.getElementById("my-keen-slider");
 
-  var reviewsData = await fetch('./assets/reviews.json');
+  var reviewsData = await fetch('./assets/json/reviews.json');
   var reviews = await reviewsData.json();
 
   for (let i = reviews.length - 1; i > 0; i--) {

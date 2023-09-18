@@ -136,6 +136,10 @@ const themes = [
   {
     theme: 'whoisev',
     color: '#808080'
+  },
+  {
+    theme: 'pharell',
+    color: 'cb47ff'
   }
 ]
 
@@ -246,3 +250,4 @@ createSecretThemeType("nebelung", ["ArrowUp", "ArrowUp", "ArrowDown", "ArrowDown
 createSecretThemeType("piplup", ["p", "i", "p", "l", "u", "p", "i", "s", "c", "o", "o", "l"])
 createSecretThemeType("forternish", ["c", "o", "m", "i", "c", "s", "a", "n", "s"])
 createSecretThemeType("whoisev", ["w", "h", "o", "i", "s", "e", "v", "i", "s", "c", "o", "o", "l"])
+createSecretThemeType("pharell", ["p", "h", "a", "r", "e", "l", "l", "i", "s", "c", "o", "o", "l"])

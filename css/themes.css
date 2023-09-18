@@ -165,6 +165,13 @@ body[theme="whoisev"] {
   --text-secondary: black;
 }
 
+body[theme="pharell"] {
+  --background: #1c1c1c;
+  --theme: #cb47ff;
+  --text: white;
+  --text-secondary: black;
+}
+
 html,body {
   color: var(--text);
 }
