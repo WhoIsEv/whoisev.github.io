@@ -32,7 +32,7 @@ async function randomSay() {
     var says = splashCache;
   } else {
     // If splashCache is undefined or empty, fetch the full set of splash messages
-    var say = await fetch("./assets/say.json");
+    var say = await fetch("./assets/json/say.json");
     var says = await say.json();
     // Store the full set of splash messages in both splashCacheAll and splashCache
     splashCacheAll = says;
