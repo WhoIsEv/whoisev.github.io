@@ -139,7 +139,7 @@ const themes = [
   },
   {
     theme: 'pharell',
-    color: 'cb47ff'
+    color: '#cb47ff'
   }
 ]
 
