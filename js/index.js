@@ -135,7 +135,7 @@ const themes = [
   },
   {
     theme: 'whoisev',
-    color: '#808080'
+    color: '#8e8e8e'
   },
   {
     theme: 'pharell',
