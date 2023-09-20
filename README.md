@@ -23,3 +23,7 @@ It is really just that simple!
 The Replit version is a cut down version of 3kh0.github.io, with the features pulled from the main 3kh0 repository.
 
 That's pretty much it!
+
+## Support
+
+If you can't get the website to load, get stuck in an infinite loop on Projects, or fonts not loading correctly while being in the localhost or any local server, please make sure you are connected to the internet as some of the fonts/assets require an internet connection.
