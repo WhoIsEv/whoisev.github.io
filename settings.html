@@ -19,7 +19,7 @@
 <body>
   <div class="navbar">
     <div class="navitems">
-      <img onclick="location.href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'" src="./images/logo.png" class="navlogo"
+      <img onclick="location.href='https://www.youtube.com/@whoisev'" src="./images/logo.png" class="navlogo"
         draggable="false" />
       <a href="./">
         <div class="navitem">Home</div>
@@ -57,6 +57,34 @@
     <input id="icon" class="input" placeholder="Favicon" onkeyup="setFavicon(this.value.trim())" />
     <button class="button" onclick="resetTab()">Reset</button>
   </div>
+    <p class="section-text">⠀</p>
+    <p class="section-text">Or choose a readymade cloak:</p>
+    <div class="buttons">
+      <select name="Readymade Cloaks" id="premadecloaks" title="Cloaks">
+        <option value="search">Google Search</option>
+        <option value="bsite">BillyBilly</option>
+        <option value="itchio">ItchiIo</option>
+        <option value="wikipedia">Wikipedia</option>
+        <option value="search">Google Search</option>
+        <option value="cornhub">Cornhub</option>
+        <option value="librex">LibreX</option>
+        <option value="nitter">Nitter</option>
+        <option value="indivious">Indivious</option>
+        <option value="teddit">Teddit</option>
+        <option value="drive">Google Drive</option>
+        <option value="youtube">YouTube</option>
+        <option value="gmail">Gmail</option>
+        <option value="calendar">Google Calendar</option>
+        <option value="meets">Google Meet</option>
+        <option value="classroom">Google Classroom</option>
+        <option value="canvas">Canvas</option>
+        <option value="zoom">Zoom</option>
+        <option value="khan">Khan Academy</option>
+      </select>
+
+      <button class="button" onclick="setCloak()">Set readymade cloak</button>
+      <button class="button" onclick="resetTab()">Reset</button>
+    </div>
 
   <div class="section-title">Theme</div>
   <div class="buttons">
@@ -76,7 +104,7 @@
     <button class="button whoisev" onclick="setTheme('whoisev')">WhoIsEv?</button>
     <button class="button pharell" onclick="setTheme('pharell')">Pharell The Goat</button>
   </div>
-  <br>
+  <p class="section-text">⠀</p>
   <div class="buttons">
     <input type="color" id="theme_color" name="Theme picker" value="#4caf50" oninput="setThemeColor(this.value)">
     <label for="head">Set custom color</label>
