@@ -665,7 +665,7 @@
     "img": "./assets/frying-nemo/splash.png"
   },
   {
-    "name": "Gacha Life (why did i add this)",
+    "name": "Gacha Life",
     "url": "./assets/gachalife/index.html",
     "img": "./assets/gachalife/splash.png"
   },
@@ -676,8 +676,8 @@
   },
   {
     "name": "Gear of Babies",
-    "url": "./assets/gearofbabies/index.html",
-    "img": "./assets/gearofbabies/TemplateData/webgl-logo.png"
+    "url": "./assets/gear-of-babies/index.html",
+    "img": "./assets/gear-of-babies/splash.png"
   },
   {
     "name": "Generic Fishing Game",
@@ -1107,7 +1107,7 @@
   {
     "name": "Out of Control",
     "url": "./assets/out-of-ctrl/OutOfCtrl_v1_2/index.html",
-    "img": "./assets/out-of-ctrl/splash.png"
+    "img": "./assets/out-of-ctrl/splash.jpg"
   },
   {
     "name": "Overwatch",
@@ -1852,7 +1852,7 @@
   {
     "name": "ZigZag",
     "url": "./assets/zigzag/zigzag.html",
-    "img": "./assets/zigzag/splash.jpeg"
+    "img": "./assets/zigzag/splash.jpg"
   },
   {
     "name": "Zombs Royale",
