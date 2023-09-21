@@ -4,6 +4,10 @@ This repo is a mirror of 3kh0 v4 for replit!
 
 This was made due to the fact that the normal 3kh0 v4 is unstable for use on Replit.
 
+## Credits
+
+All credit goes to [@3kh0](https://github.com/3kh0) for making this awesome website. All 3kh0 assets and website files will have credit to the original owner. Go show him some love! 
+
 ## Running
 
 [![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/3kh0/3kh0.github.io-replit)
