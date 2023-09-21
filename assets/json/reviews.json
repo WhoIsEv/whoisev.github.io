@@ -13,5 +13,10 @@
     "name": "SiemonDemon",
     "img": "./images/reviews/malek.jpg",
     "review": "im eduard's fav"
+  },
+  {
+    "name": "Maikol",
+    "img": "./images/review/skeleton.gif",
+    "review": "lets have a three on bloxburg"
   }
 ]
