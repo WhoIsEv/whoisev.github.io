@@ -138,8 +138,8 @@ const themes = [
     color: '#8e8e8e'
   },
   {
-    theme: 'pharell',
-    color: '#cb47ff'
+    theme: 'halloween',
+    color: '#ff9a00'
   }
 ]
 

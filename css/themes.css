@@ -165,9 +165,9 @@ body[theme="whoisev"] {
   --text-secondary: black;
 }
 
-body[theme="pharell"] {
+body[theme="halloween"] {
   --background: #1c1c1c;
-  --theme: #cb47ff;
+  --theme: #ff9a00;
   --text: white;
   --text-secondary: black;
 }
