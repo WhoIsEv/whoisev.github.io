@@ -11,4 +11,4 @@
 
 ## Reporting a Vulnerability
 
-Please open an issue on the <a href="https://discord.gg/DtJZE3cgwj" target="_blank">Discord server</a> and we will try to fix it asap.
+Please open an issue on the <a href="https://discord.gg/DtJZE3cgwj">Discord server</a> and we will try to fix it asap.
