@@ -126,7 +126,7 @@
     },
     {
       "name": "Backrooms 2D (HTML5)",
-      "url": "./assets/backrooms2d/backrooms2d.html",
+      "url": "./assets/backrooms2d/index.html",
       "img": "./assets/backrooms2d/splash.jpeg"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Ball Dodge",
-      "url": "./assets/balldodge/balldodge.html",
+      "url": "./assets/balldodge/index.html",
       "img": "./assets/balldodge/splash.jpeg"
     },
     {
@@ -601,7 +601,7 @@
     },
     {
       "name": "Fantasy Dash",
-      "url": "./assets/fantasy-dash/fantasydash.html",
+      "url": "./assets/fantasy-dash/index.html",
       "img": "./assets/fantasy-dash/splash.jpeg"
     },
     {
@@ -616,7 +616,7 @@
     },
     {
       "name": "Flappy Plane",
-      "url": "./assets/flappyplane/flappyplane.html",
+      "url": "./assets/flappyplane/index.html",
       "img": "./assets/flappyplane/splash.jpeg"
     },
     {
@@ -691,7 +691,7 @@
     },
     {
       "name": "Geometry Dash Lite",
-      "url": "./assets/geodashlite/geodashlite.html",
+      "url": "./assets/geodashlite/index.html",
       "img": "./assets/geodashlite/geodashlite.png"
     },
     {
@@ -866,13 +866,8 @@
     },
     {
       "name": "Iron Dash",
-      "url": "./assets/irondash/irondash.html",
+      "url": "./assets/irondash/index.html",
       "img": "./assets/irondash/splash.jpeg"
-    },
-    {
-      "name": "Jelly Truck",
-      "url": "https://jelly-truck.github.io/",
-      "img": "https://jelly-truck.github.io/truck2_icon.png"
     },
     {
       "name": "Jetpack Joyride",
@@ -891,7 +886,7 @@
     },
     {
       "name": "Kirkaio",
-      "url": "./assets/kirkaio/kirka.html",
+      "url": "./assets/kirkaio/index.html",
       "img": "./assets/kirkaio/splash.jpeg"
     },
     {
@@ -941,7 +936,7 @@
     },
     {
       "name": "Line Rider",
-      "url": "./assets/linerider/linerider.html",
+      "url": "./assets/linerider/index.html",
       "img": "./assets/linerider/splash.jpeg"
     },
     {
@@ -971,7 +966,7 @@
     },
     {
       "name": "MCJE",
-      "url": "./assets/mcje/mine.html",
+      "url": "./assets/mcje/index.html",
       "img": "./assets/mcje/splash.jpeg"
     },
     {
@@ -1156,7 +1151,7 @@
     },
     {
       "name": "piclient",
-      "url": "./assets/piclient/piclient.html",
+      "url": "./assets/piclient/index.html",
       "img": "./assets/piclient/splash.jpeg"
     },
     {
@@ -1176,7 +1171,7 @@
     },
     {
       "name": "Plants vs Zombies 1",
-      "url": "./assets/plantsvzombie1/pvz1.html",
+      "url": "./assets/plantsvzombie1/index.html",
       "img": "./assets/plantsvzombie1/image_proxy.png"
     },
     {
@@ -1281,7 +1276,7 @@
     },
     {
       "name": "Robux Clicker",
-      "url": "./assets/robuxclicker/robuxclicker.html",
+      "url": "./assets/robuxclicker/index.html",
       "img": "./assets/robuxclicker/splash.jpeg"
     },
     {
@@ -1371,7 +1366,7 @@
     },
     {
       "name": "Shotgun Showdown",
-      "url": "./assets/shogunshowdown/shogunshowdown.html",
+      "url": "./assets/shogunshowdown/index.html",
       "img": "./assets/shogunshowdown/splash.png"
     },
     {
@@ -1401,7 +1396,7 @@
     },
     {
       "name": "Slither.io",
-      "url": "./assets/slitherio/slitherio.html",
+      "url": "./assets/slitherio/index.html",
       "img": "./assets/slitherio/splash.jpeg"
     },
     {
@@ -1736,7 +1731,7 @@
     },
     {
       "name": "Vex 2",
-      "url": "./assets/vex2/vex2.html",
+      "url": "./assets/vex2/index.html",
       "img": "./assets/vex2/splash.jpeg"
     },
     {
@@ -1791,7 +1786,7 @@
     },
     {
       "name": "Webretro",
-      "url": "./assets/webretro/roms.html",
+      "url": "./assets/webretro/index.html",
       "img": "./assets/webretro/assets/icons/icon204.png"
     },
     {
