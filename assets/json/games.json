@@ -97,7 +97,7 @@
     {
       "name": "Angry Sharks",
       "url": "./assets/angry-sharks/index.html",
-      "img": "./assets/angry-sharks/assets/favicon/icon-512x512.png"
+      "img": "./assets/angry-sharks/icon-512x512.png"
     },
     {
       "name": "Aquapark slides",
@@ -526,7 +526,7 @@
     },
     {
       "name": "Dumb Ways To Die",
-      "url": "./assets/dumbwaystodie/dumbwaystodie.html",
+      "url": "./assets/dumbwaystodie/index.html",
       "img": "./assets/dumbwaystodie/image.png"
     },
     {
@@ -792,7 +792,7 @@
     {
       "name": "Hellscaper",
       "url": "./assets/hellscaper/WebGL/index.html",
-      "img": "./assets/hellscaper/WebGL/TemplateData/webgl-logo.png"
+      "img": "./assets/hellscaper/WebGL/TemplateData/favicon.ico"
     },
     {
       "name": "Hex Empire",
@@ -848,6 +848,11 @@
       "name": "Impossible Quiz",
       "url": "./assets/impossiblequiz/index.html",
       "img": "./assets/impossiblequiz/impossiblequiz.png"
+    },
+    {
+      "name": "Impossible Quiz 2",
+      "url": "./assets/impossiblequiz2/index.html",
+      "img": "./assets/impossiblequiz2/impossible_quiz2.png"
     },
     {
       "name": "Interactive Buddy",
@@ -1157,7 +1162,7 @@
     {
       "name": "Pigeon Ascent",
       "url": "./assets/pigeon-ascent/index.html",
-      "img": "./assets/pigeon-ascent/index.png"
+      "img": "./assets/pigeon-ascent/index.icon.png"
     },
     {
       "name": "Pixel Gun Survival",
@@ -1302,7 +1307,7 @@
     {
       "name": "Roommate",
       "url": "./assets/roommate/31/index.html",
-      "img": "./assets/roommate/31/templatedata/webgl-logo.png"
+      "img": "./assets/roommate/31/TemplateData/favicon.ico"
     },
     {
       "name": "Ruffle Emulator",
@@ -1587,7 +1592,7 @@
     {
       "name": "Super Mario Constuct",
       "url": "./assets/supermarioconstruct/index.html",
-      "img": "./assets/supermarioconstruct/media/icons/icon-128.png"
+      "img": "./assets/supermarioconstruct/icons/icon-256.png"
     },
     {
       "name": "Surviv.io",

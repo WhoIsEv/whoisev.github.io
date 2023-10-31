@@ -16,7 +16,7 @@
     } catch {}
   
     try {
-      var infoFetch = await fetch("https://raw.githack.com/3kh0/3kh0.github.io/main/info.json");
+      var infoFetch = await fetch("https://raw.githack.com/whoisev/whoisev.github.io/main/info.json");
       try {
         var infoResult = await infoFetch.json();
         if (infoResult.version) {
