@@ -136,10 +136,6 @@ const themes = [
   {
     theme: 'whoisev',
     color: '#8e8e8e'
-  },
-  {
-    theme: 'halloween',
-    color: '#ff9a00'
   }
 ]
 
