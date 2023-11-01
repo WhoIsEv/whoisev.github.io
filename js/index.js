@@ -74,7 +74,7 @@ function getColorHex(hexcolor) {
   return (yiq >= 128) ? 'white' : 'black';
 }
 
-var theme = localStorage.getItem("theme") || "halloween";
+var theme = localStorage.getItem("theme") || "default";
 
 const themes = [
   {

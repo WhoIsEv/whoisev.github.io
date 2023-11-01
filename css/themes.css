@@ -165,13 +165,6 @@ body[theme="whoisev"] {
   --text-secondary: black;
 }
 
-body[theme="halloween"] {
-  --background: #1c1c1c;
-  --theme: #ff9a00;
-  --text: white;
-  --text-secondary: black;
-}
-
 html,body {
   color: var(--text);
 }
