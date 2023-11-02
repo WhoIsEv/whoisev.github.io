@@ -350,11 +350,6 @@
       "img": "./assets/connect3/connect3.png"
     },
     {
-      "name": "Cookie Clicker",
-      "url": "./assets/cookie-clicker/index.html",
-      "img": "./assets/cookie-clicker/img/perfectCookie.png"
-    },
-    {
       "name": "Core Ball",
       "url": "./assets/core-ball/index.html",
       "img": "./assets/core-ball/pr_source.png"
