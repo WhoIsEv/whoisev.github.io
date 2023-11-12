@@ -1,8 +1,6 @@
-# 3kh0.github.io Replit Version
+# 3kh0, relived
 
-This repo is a mirror of 3kh0 v4 for replit!
-
-This was made due to the fact that the normal 3kh0 v4 is unstable for use on Replit.
+This is a relived version of 3kh0, as it has shut down recently.
 
 ## Credits
 
@@ -10,7 +8,7 @@ All credit goes to [@3kh0](https://github.com/3kh0) for making this awesome webs
 
 ## Running
 
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/3kh0/3kh0.github.io-replit)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/whoisev/whoisev.github.io)
 
 Running this is super easy!
 
@@ -21,12 +19,6 @@ Running this is super easy!
 
 It is really just that simple!
 
-
-## Differences
-
-The Replit version is a cut down version of 3kh0.github.io, with the features pulled from the main 3kh0 repository.
-
-That's pretty much it!
 
 ## Support
 
