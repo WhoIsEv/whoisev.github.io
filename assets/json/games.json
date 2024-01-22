@@ -660,11 +660,6 @@
       "img": "./assets/frying-nemo/splash.png"
     },
     {
-      "name": "Gacha Life",
-      "url": "./assets/gachalife/index.html",
-      "img": "./assets/gachalife/splash.png"
-    },
-    {
       "name": "Game Inside a Game Inside a Game...",
       "url": "./assets/game-inside/index.html",
       "img": "./assets/game-inside/img/display.png"
@@ -1263,11 +1258,6 @@
       "name": "Riddle School Transfer 2",
       "url": "./assets/riddletransfer2/index.html",
       "img": "./assets/riddletransfer2/riddletransfer2.png"
-    },
-    {
-      "name": "Roblox",
-      "url": "./assets/roblox/index.html",
-      "img": "./assets/roblox/splash.png"
     },
     {
       "name": "Robux Clicker",
