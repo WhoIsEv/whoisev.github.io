@@ -705,6 +705,11 @@
       "img": "./assets/glass-city/image.png"
     },
     {
+      "name": "Gladihoppers",
+      "url": "./assets/gladihoppers/index.html",
+      "img": "./assets/gladihoppers/icon.png"
+    },
+    {
       "name": "Go Ball",
       "url": "./assets/go-ball/index.html",
       "img": "./assets/go-ball/game.jpg"
@@ -1573,6 +1578,11 @@
       "name": "Super Mario Constuct",
       "url": "./assets/supermarioconstruct/index.html",
       "img": "./assets/supermarioconstruct/icons/icon-256.png"
+    },
+    {
+      "name": "Super Smash Flash",
+      "url": "./assets/supersmash/index.html",
+      "img": "./assets/supersmash/icons/icon.png"
     },
     {
       "name": "Surviv.io",
