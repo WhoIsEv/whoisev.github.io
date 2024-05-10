@@ -960,11 +960,6 @@
       "img": "./assets/matrixrampage/matrixrampage.jpg"
     },
     {
-      "name": "MCJE",
-      "url": "./assets/mcje/index.html",
-      "img": "./assets/mcje/splash.jpeg"
-    },
-    {
       "name": "Meme 2048",
       "url": "./assets/meme2048/index.html",
       "img": "./assets/meme2048/img/rickroll.gif"
@@ -983,16 +978,6 @@
       "name": "Mine Blocks",
       "url": "./assets/mineblocks/index.html",
       "img": "./assets/mineblocks/splash.png"
-    },
-    {
-      "name": "Eaglercraft 1.5",
-      "url": "./assets/minecraft-15/index.html",
-      "img": "./assets/minecraft-15/splash.jpeg"
-    },
-    {
-      "name": "Eaglercraft 1.8",
-      "url": "./assets/minecraft-18/index.html",
-      "img": "./assets/minecraft-18/splash.png"
     },
     {
       "name": "Minecraft Classic",
@@ -1145,11 +1130,6 @@
       "img": "./assets/particle-clicker/assets/mobile/original.png"
     },
     {
-      "name": "piclient",
-      "url": "./assets/piclient/index.html",
-      "img": "./assets/piclient/splash.jpeg"
-    },
-    {
       "name": "Pigeon Ascent",
       "url": "./assets/pigeon-ascent/index.html",
       "img": "./assets/pigeon-ascent/index.icon.png"
@@ -1185,11 +1165,6 @@
       "img": "./assets/portalflash/portaltheflashversion.jpg"
     },
     {
-      "name": "Precision Client (Eaglercraft)",
-      "url": "./assets/precision-client/index.html",
-      "img": "./assets/precision-client/logo.png"
-    },
-    {
       "name": "Protektor",
       "url": "./assets/protektor/index.html",
       "img": "./assets/protektor/splash.jpg"
@@ -1213,11 +1188,6 @@
       "name": "Rabbit Samurai 2",
       "url": "./assets/rabbit-samurai2/index.html",
       "img": "./assets/rabbit-samurai2/splash.png"
-    },
-    {
-      "name": "Resent Client (Eaglercraft)",
-      "url": "./assets/resent-client/index.html",
-      "img": "./assets/resent-client/splash.jpg"
     },
     {
       "name": "Retro Bowl",
@@ -1582,7 +1552,7 @@
     {
       "name": "Super Smash Flash",
       "url": "./assets/supersmash/index.html",
-      "img": "./assets/supersmash/icon.png"
+      "img": "./assets/supersmash/logo.png"
     },
     {
       "name": "Surviv.io",
