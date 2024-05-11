@@ -1535,6 +1535,11 @@
       "img": "./assets/supersmash/logo.png"
     },
     {
+      "name": "Super Smash Flash 2",
+      "url": "./assets/supersmash2/index.html",
+      "img": "./assets/supersmash2/logo.png"
+    },
+    {
       "name": "Surviv.io",
       "url": "./assets/surviv/index.html",
       "img": "./assets/surviv/img/favicon.png"
