@@ -125,12 +125,7 @@
       "img": "./assets/backrooms/img/splash.jpg"
     },
     {
-      "name": "Backrooms 2D (HTML5)",
-      "url": "./assets/backrooms2d/index.html",
-      "img": "./assets/backrooms2d/splash.jpeg"
-    },
-    {
-      "name": "Backrooms 2D (Unity)",
+      "name": "Backrooms 2D",
       "url": "./assets/backrooms-2d/index.html",
       "img": "./assets/backrooms-2d/splash.png"
     },
@@ -308,16 +303,6 @@
       "name": "Champion Archer",
       "url": "./assets/championarcher/index.html",
       "img": "./assets/championarcher/championarcher.png"
-    },
-    {
-      "name": "Checkers",
-      "url": "./assets/checkers/checkers.html",
-      "img": "./assets/checkers/image.png"
-    },
-    {
-      "name": "Chess",
-      "url": "./assets/chess/chess.html",
-      "img": "./assets/chess/splash.jpeg"
     },
     {
       "name": "Chill Radio",
@@ -705,11 +690,6 @@
       "img": "./assets/glass-city/image.png"
     },
     {
-      "name": "Gladihoppers",
-      "url": "./assets/gladihoppers/index.html",
-      "img": "./assets/gladihoppers/icon.png"
-    },
-    {
       "name": "Go Ball",
       "url": "./assets/go-ball/index.html",
       "img": "./assets/go-ball/game.jpg"
@@ -850,6 +830,11 @@
       "img": "./assets/impossiblequiz2/impossible_quiz2.png"
     },
     {
+      "name": "Impossible Quiz Beta",
+      "url": "./assets/impossiblequizbeta/index.html",
+      "img": "./assets/impossiblequizbeta/impossiblequiz.png"
+    },
+    {
       "name": "Interactive Buddy",
       "url": "./assets/interactivebuddy/index.html",
       "img": "./assets/interactivebuddy/interactivebuddy.jpg"
@@ -858,11 +843,6 @@
       "name": "Invite the Blackbird",
       "url": "./assets/invite-the-blackbird/index.html",
       "img": "./assets/invite-the-blackbird/splash.png"
-    },
-    {
-      "name": "Iron Dash",
-      "url": "./assets/irondash/index.html",
-      "img": "./assets/irondash/splash.jpeg"
     },
     {
       "name": "Jetpack Joyride",
@@ -1763,6 +1743,11 @@
       "name": "Win the Whitehouse",
       "url": "./assets/win-the-whitehouse/index.html",
       "img": "./assets/win-the-whitehouse/splash.png"
+    },
+    {
+      "name": "Wolfenstein 2D",
+      "url": "./assets/wolf2d/index.html",
+      "img": "./assets/wolf2d/icons/[icon-128].png"
     },
     {
       "name": "Wolfenstein 3D",
