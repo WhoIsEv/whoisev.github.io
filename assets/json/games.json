@@ -1296,8 +1296,8 @@
     },
     {
       "name": "Shape Shootout",
-      "url": "./assets/shapeshootout/index.html",
-      "img": "./assets/shapeshootout/icon.png"
+      "url": "./assets/ShapeShootout/index.html",
+      "img": "./assets/ShapeShootout/icon.png"
     },
     {
       "name": "Shellshockers",
@@ -1641,8 +1641,8 @@
     },
     {
       "name": "Trimps",
-      "url": "./assets/trimps/index.html",
-      "img": "./assets/trimps/trimp.jpg"
+      "url": "./assets/Trimps/index.html",
+      "img": "./assets/Trimps/trimp.jpg"
     },
     {
       "name": "Tube Jumpers",
