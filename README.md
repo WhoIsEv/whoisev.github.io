@@ -1,6 +1,6 @@
 # 3kh0, relived
 
-This is a relived version of 3kh0, as it has shut down recently.
+3kh0v4 is a website originally created by 3kh0, this version is a fork of that project with additional modifications to keep the project alive.
 
 ## Credits
 
