@@ -23,3 +23,7 @@ It is really just that simple!
 ## Support
 
 If you can't get the website to load, get stuck in an infinite loop on Projects, or fonts not loading correctly while being in the localhost or any local server, please make sure you are connected to the internet as some of the fonts/assets require an internet connection.
+
+## Disclaimer
+
+There will be a lack of updates from time to time as this website was originally a fun project I did back in school, and to experiment how code works at that time. I learned quite a bit from it which lead me to create my own version! 
